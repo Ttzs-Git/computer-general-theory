@@ -21,5 +21,7 @@ Download | Available online **for consumption**
 
 #### Declaration
 If you find that there should be a better solution to a problem in the warehouse, or if there is an error in my notes, please feel free to correct it through my email. I will reply within 3 working days and please indicate your purpose; We also welcome every computer enthusiast to join us. Our goal is to learn basic computer knowledge and lay a solid foundation. This warehouse: Updated irregularly
+
 #### Open source license
-This project follows the AGPL-3.0 open source license.
+
+This project follows the Apache-2.0 license open source license.
